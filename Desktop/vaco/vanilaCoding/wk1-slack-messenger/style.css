@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+}
+
+header {
+  padding: 1em 0;
+  background-color: #4a154b;
+  color: #dddddd;
+  border-bottom: 1px solid #dddddd;
+  z-index: 99;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+}
+
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.container {
+  padding: 0 2em;
+}
+
+.channel-title {
+  width: 2rem;
+  margin-right: 1rem;
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+.message-list {
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.message {
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  margin: 1em;
+}
+
+.message .meta {
+  display: inline-block;
+}
+
+.message .time {
+  font-size: 0.8em;
+  color: #b0b0b0;
+}
+
+.message .username {
+  font-weight: 700;
+  margin-left: 5px;
+}
+
+.message .content {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.message img.content {
+  border-radius: 2px;
+  width: 150px;
+  height: 150px;
+}
+/*------------- style added-------------- !!!*/
+
+.top.container {
+  display: flex;
+}
+
+#message,
+#search-box {
+  width: 32rem;
+  height: 1.5rem;
+  border-radius: 5px;
+  border: 1px solid #b0b0b0;
+  padding-left: 0.5rem;
+  font-size: 1rem;
+  outline: none;
+}
+
+#message {
+  min-height: 3rem;
+  width: 44rem;
+  border: none;
+}
+.message-box {
+  display: flex;
+  position: fixed;
+  bottom: 0.2rem;
+  flex-direction: column;
+  border: 1px solid #b0b0b0;
+  border-radius: 5px;
+}
+
+.toolbar {
+  display: flex;
+  flex-direction: row;
+  height: 2rem;
+  justify-content: flex-end;
+  background: white;
+}
+
+.toolbar li {
+  margin-right: 1rem;
+  color: #b0b0b0;
+}

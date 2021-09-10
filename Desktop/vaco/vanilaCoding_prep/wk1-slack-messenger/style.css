@@ -1,0 +1,67 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+}
+
+header {
+  padding: 1em 0;
+  border-bottom: 1px solid #dddddd;
+}
+
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.container {
+  padding: 0 2em;
+}
+
+.channel-title {
+  font-weight: 700;
+  font-size: 1.5em;
+  margin-left: 10px;
+}
+
+.message-list {
+  margin: 2em 0;
+}
+
+.message {
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+  margin: 1em;
+}
+
+.message .meta {
+  display: inline-block;
+}
+
+.message .time {
+  font-size: .8em;
+  color: #B0B0B0;
+}
+
+.message .username {
+  font-weight: 700;
+  margin-left: 5px;
+}
+
+.message .content {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.message img.content {
+  border-radius: 2px;
+  width: 150px;
+  height: 150px;
+}

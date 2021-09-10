@@ -1,0 +1,26 @@
+{
+    "chats": [
+      {
+        "type": "image",
+        "url": "https://i.ibb.co/cys3cBZ/Image-from-i-OS-10.jpg",
+        "username": "김찬중",
+        "color": "#b17fc1",
+        "createdAt": "2021-07-10T11:48:10.000Z"
+      },
+      {
+        "type": "text",
+        "content": "츄츄는 잘 있습니다.",
+        "username": "츄츄맘",
+        "color": "#b17fc1",
+        "createdAt": "2021-07-10T11:48:10.000Z"
+      },
+      {
+        "type": "text",
+        "content": "저희 할머니네 도자기랑 교환하실래요?",
+        "username": "김도희",
+        "color": "#0b218b",
+        "createdAt": "2021-07-10T11:48:10.000Z"
+      }
+    ]
+  }
+  
