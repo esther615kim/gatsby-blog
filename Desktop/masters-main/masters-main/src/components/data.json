@@ -1,0 +1,145 @@
+{
+    "new": [
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/service/d5271bc1-be08-4d60-a820-7499ccedbd23.jpg?d=320x320",
+        "title": "애자일 코칭"
+      },
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/service/3d980868-2283-4de5-ba9a-ca6709e2cad0.jpg?d=320x320",
+        "title": "디스플레이 광고 레슨"
+      },
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/service/495d9c7f-3254-4686-a852-386bb99f2863.png?d=320x320",
+        "title": "프로토타이핑 레슨"
+      }
+    ],
+    "popular": [
+      {
+        "title": "영어과외",
+        "url": "https://dmmj3ljielax6.cloudfront.net/upload/service/05389ab5-c05d-45c8-abe1-d0b90019cb75.png?d=320x320",
+        "active_masters": 53234
+      },
+      {
+        "title": "집 인테리어",
+        "url": "https://dmmj3ljielax6.cloudfront.net/upload/service/9ae39f56-4786-4d98-b03a-06540f927899.png?d=320x320",
+        "active_masters": 21256
+      },
+      {
+        "title": "퍼스널트레이닝(PT)",
+        "url": "https://dmmj3ljielax6.cloudfront.net/upload/service/6a497fde-2ba4-4a59-977c-41ce3be83e08.png?d=320x320",
+        "active_masters": 18355
+      },
+      {
+        "title": "가성비와 디자인 리모델링",
+        "url": "https://dmmj3ljielax6.cloudfront.net/upload/service/0215f0ab-61fe-4273-8a1b-6d73d71ad38c.png?d=320x320",
+        "active_masters": 53234
+      },
+      {
+        "title": "수학과외",
+        "url": "https://dmmj3ljielax6.cloudfront.net/upload/profile/74a6407c-556d-4b79-bcdd-568ed1c08512.png",
+        "active_masters": 21256
+      },
+      {
+        "title": "퍼스널트레이닝(PT)",
+        "url": "https://dmmj3ljielax6.cloudfront.net/upload/service/6a497fde-2ba4-4a59-977c-41ce3be83e08.png?d=320x320",
+        "active_masters": 18355
+      }
+    ],
+  
+    "local_masters": [
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/profile/34a38879-a23d-4de7-841a-219c18636fb4.jpg",
+        "title": "아파트.주택.인테리어 리모델링/",
+        "address": "광주 광산구",
+        "score": 4,
+        "review": 4,
+        "hired": 3
+      },
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/profile/40f51697-f0ee-45d4-ac7f-40fb5bd34669.jpg",
+        "title": "수영 및 스쿠버 전문",
+        "address": "전라남도 여수시",
+        "score": 4,
+        "review": 12,
+        "hired": 3
+      },
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/profile/f207f89c-c57b-4ebf-b569-235bca77be10.jpg",
+        "title": "순간을 담는 1인 포토그래퍼 름스튜디오",
+        "address": "경기 파주시",
+        "score": 5,
+        "review": 12,
+        "hired": 15
+      },
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/profile/34a38879-a23d-4de7-841a-219c18636fb4.jpg",
+        "title": "아파트.주택.인테리어 리모델링/",
+        "address": "광주 광산구",
+        "score": 4,
+        "review": 4,
+        "hired": 3
+      },
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/profile/40f51697-f0ee-45d4-ac7f-40fb5bd34669.jpg",
+        "title": "수영 및 스쿠버 전문",
+        "address": "전라남도 여수시",
+        "score": 4,
+        "review": 12,
+        "hired": 3
+      },
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/profile/f207f89c-c57b-4ebf-b569-235bca77be10.jpg",
+        "title": "순간을 담는 1인 포토그래퍼 름스튜디오",
+        "address": "경기 파주시",
+        "score": 5,
+        "review": 12,
+        "hired": 15
+      }
+    ],
+    "tips": [
+      {
+        "imageUri": "https://static.cdn.soomgo.com/upload/talkboard/01c04d0b-43ae-48b7-8282-31803a1b2c1d.jpeg",
+        "title": "에어컨 설치 추가 비용과 시간에 대한 비밀",
+        "master": "⭐에어컨아저씨"
+      },
+      {
+        "imageUri": "https://static.cdn.soomgo.com/upload/talkboard/72111fc9-ceb5-4e11-b55a-2b520418a267.jpeg",
+        "title": "세면기 교체 셀프 시공하며 돈 아끼기",
+        "master": "우현종"
+      },
+      {
+        "imageUri": "https://static.cdn.soomgo.com/upload/talkboard/f7633f69-893f-4c5f-834a-fcad1e6f6751.png",
+        "title": "화장실 인테리어 견적서 확인하는 꿀팁",
+        "master": "1319프로젝트"
+      },
+      {
+        "imageUri": "https://static.cdn.soomgo.com/upload/talkboard/4b75cf94-0baf-4c4c-8d67-d75e0e0a28af.png",
+        "title": "유지하기 쉬운 드레스룸 정리 꿀팁 3가지",
+        "master": "손은정의 똑딱정리"
+      }
+    ],
+    "magazine": [
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/home/magazine/GettyImages-1291937154.jpg",
+        "title": "옷장 정리 어렵지 않아요"
+      },
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/home/magazine/Screen_Shot_2021-09-07_at_5.28.02_PM.png",
+        "title": "[추천]베란다 인테리어 서비스"
+      },
+      {
+        "imageUri": "https://dmmj3ljielax6.cloudfront.net/upload/home/magazine/Screen_Shot_2021-09-01_at_6.04.28_PM.png",
+        "title": "욕실 리모델링으로 오래된 주택 욕실 대변신"
+      }
+    ],
+    "find_masters": [
+      {
+        "imageUri": "https://static.cdn.soomgo.com/upload/profile/206d790b-69ea-4f5c-9621-0efae5e494bc.jpg?d=320x320",
+        "name": "지용득",
+        "description": "지용득 고수의 에어컨 청소 서비스",
+        "score": 5.0,
+        "hired": 140
+      }
+    ]
+  }
+  
