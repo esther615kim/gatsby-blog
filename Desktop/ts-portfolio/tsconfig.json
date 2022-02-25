@@ -17,6 +17,9 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
+    "compilerOptions": {
+      "typeRoots" : ["node_modules/@types", "src/types"]
+  },
     "noEmit": true,
     "jsx": "react-jsx"
   },
