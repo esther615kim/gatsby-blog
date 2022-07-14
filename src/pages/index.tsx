@@ -139,7 +139,7 @@ const links = [
 ]
 
 // markup
-const IndexPage = (props: {data: Queries.Query}) => {
+const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <title>Home Page</title>
@@ -195,14 +195,14 @@ const IndexPage = (props: {data: Queries.Query}) => {
 
 export default IndexPage
 
-export const pageQuery = graphql`
-query{
-  allMarkdownRemark {
-    edges {
-      node {
-        html
-      }
-    }
-  }
-}
-`
+// export const pageQuery = graphql`
+// query{
+//   allMarkdownRemark {
+//     edges {
+//       node {
+//         html
+//       }
+//     }
+//   }
+// }
+// `
