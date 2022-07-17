@@ -42,7 +42,7 @@ const config: GatsbyConfig = {
       "path": "./src/data/"
     },
     __key: "data"
-  }]
+  },'gatsby-plugin-postcss']
 };
 
 export default config;
