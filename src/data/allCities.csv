@@ -1,4 +1,4 @@
-First Post, title, subtitle,text
-Second Post, Tate Modern, Art gallery, Tate Modern is the jewel in the crown of modern art galleries in London
-JAM Stack 1, Natural History Museum, Museum, The museum holds more than 146 million objects and specimens making it the largest natural history collection in the world
-Gatsby Setups, Somerset House, Art center, Somerset House connects creativity and the arts with wider society.
+category, title, text
+Gatsby, Second Post, Tate Modern is the jewel in the crown of modern art galleries in London
+Gatsby, Natural History Museum, The museum holds more than 146 million objects and specimens making it the largest natural history collection in the world
+React, Somerset House, Somerset House connects creativity and the arts with wider society.

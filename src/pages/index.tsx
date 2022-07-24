@@ -24,12 +24,11 @@ query {
   allAllCitiesCsv {
     edges {
       node {
-        subtitle
+        category
         title
         text
       }
     }
   }
 }
-
 `
