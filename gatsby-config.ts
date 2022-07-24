@@ -2,6 +2,7 @@ import type { GatsbyConfig } from "gatsby";
 require("dotenv").config({
   path: `.env`,
 });
+import path from "path";
 
 
 const config: GatsbyConfig = {
@@ -46,7 +47,11 @@ const config: GatsbyConfig = {
       "path": "./src/data/"
     },
     __key: "data"
-  },'gatsby-plugin-postcss']
+  },'gatsby-plugin-postcss',"gatsby-plugin-root-import",{
+    resolve: 'gatsby-plugin-root-import',
+    options: {
+      root: path.join(__dirname, "src")
+  }}]
 };
 
 export default config;
