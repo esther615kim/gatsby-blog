@@ -1,4 +1,8 @@
 import type { GatsbyConfig } from "gatsby";
+require("dotenv").config({
+  path: `.env`,
+});
+
 
 const config: GatsbyConfig = {
   siteMetadata: {
@@ -12,8 +16,8 @@ const config: GatsbyConfig = {
   plugins: [{
     resolve: 'gatsby-source-contentful',
     options: {
-      "accessToken": "8Git6JcO73p40t9fwk-5_7GDdHI-ykm-Gr8qvzlKAAo",
-      "spaceId": "0yn2qh1q6m2r"
+      "accessToken":process.env.CONTENTFUL_ACCESS_TOKEN,//"8Git6JcO73p40t9fwk-5_7GDdHI-ykm-Gr8qvzlKAAo",
+      "spaceId": process.env.CONTENTFUL_SPACE_ID, //"0yn2qh1q6m2r"
     }
   }, "gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
